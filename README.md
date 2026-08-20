@@ -20,7 +20,5 @@ I create pixel art, game interfaces, characters and worlds — while learning th
 </div>
 
 <br>
-<img src="https://github.com/ConjuradorXD/ConjuradorXD/blob/main/assets/Belle.gif" height="40" />
+<img src="https://github.com/ConjuradorXD/ConjuradorXD/blob/main/assets/Belle.gif" height="120" />
 <br><br>
-
-</div>
