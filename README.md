@@ -3,9 +3,11 @@
 </div>
 
 <div align="center">
+
 ```text
 I create pixel art, game interfaces, characters, and animations.
 ```
+
 </div>
 
 <div align="center">
